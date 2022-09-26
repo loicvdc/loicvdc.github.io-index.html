@@ -1,0 +1,14 @@
+h1 {
+    font-size: 3cm;
+    color: green;
+    background-color: black;
+}
+
+body {
+    background-color: orange;
+}
+
+h2 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 2cm;
+}
